@@ -1,0 +1,708 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curl_",
+				"curl_init"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"fileg",
+				"file_get_contents〔function〕"
+			],
+			[
+				"A",
+				"Auth"
+			],
+			[
+				"Us",
+				"Usuario"
+			],
+			[
+				"Au",
+				"AuthorizationException"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Auth",
+				"AuthorizationException〔namespace〕"
+			],
+			[
+				"retu",
+				"return〔keyword〕"
+			],
+			[
+				"re",
+				"$request〔variable〕"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"th",
+				"$this〔variable〕"
+			],
+			[
+				"reg",
+				"$reglas〔variable〕"
+			],
+			[
+				"rque",
+				"$request〔variable〕"
+			],
+			[
+				"loca",
+				"localtime"
+			],
+			[
+				"Host",
+				"mysql_get_host_info"
+			],
+			[
+				"handler",
+				"restore_exception_handler"
+			],
+			[
+				"code",
+				"http_response_code"
+			],
+			[
+				"e",
+				"exception"
+			],
+			[
+				"resp",
+				"response〔function〕"
+			],
+			[
+				"C",
+				"ClientException"
+			],
+			[
+				"ro",
+				"routeMiddleware〔function〕"
+			],
+			[
+				"mi",
+				"middleware〔function〕"
+			],
+			[
+				"fore",
+				"foreignKey"
+			],
+			[
+				"pro",
+				"$producto〔variable〕"
+			],
+			[
+				"foreignKey",
+				"odbc_foreignkeys"
+			],
+			[
+				"pr",
+				"$producto〔variable〕"
+			],
+			[
+				"ca",
+				"categoriaxp"
+			],
+			[
+				"cat",
+				"$categoriaxp〔variable〕"
+			],
+			[
+				"b",
+				"belongsToMany〔function〕"
+			],
+			[
+				"has",
+				"hasOne〔function〕"
+			],
+			[
+				"c",
+				"categorias2"
+			],
+			[
+				"Ex",
+				"Exception〔class〕"
+			],
+			[
+				"class",
+				"class\tclass …"
+			],
+			[
+				"n",
+				"$nombre〔variable〕"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"null",
+				"null〔keyword〕"
+			],
+			[
+				"user",
+				"$user〔variable〕"
+			],
+			[
+				"use",
+				"$user〔variable〕"
+			],
+			[
+				"id",
+				"$id〔variable〕"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"reues",
+				"$request〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/UsuariosController.php",
+			"settings":
+			{
+				"buffer_size": 2305,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Providers/AuthServiceProvider.php",
+			"settings":
+			{
+				"buffer_size": 1204,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Controller.php",
+			"settings":
+			{
+				"buffer_size": 1553,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/PC/Documents/spa-api",
+		"/C/Users/PC/Documents/spa-api/app",
+		"/C/Users/PC/Documents/spa-api/app/Exceptions",
+		"/C/Users/PC/Documents/spa-api/app/Http",
+		"/C/Users/PC/Documents/spa-api/app/Http/Controllers",
+		"/C/Users/PC/Documents/spa-api/app/Http/Middleware",
+		"/C/Users/PC/Documents/spa-api/app/Providers"
+	],
+	"file_history":
+	[
+		"/C/Users/PC/Downloads/spa.sql",
+		"/C/Users/PC/Documents/spa-api/Api.php",
+		"/C/Users/PC/Documents/spa-api/CurlRequest.php",
+		"/C/Users/PC/Documents/spa-api/vendor/fzaninotto/faker/src/Faker/Provider/Image.php",
+		"/C/Users/PC/Documents/spa-api/app/Http/Controllers/TelefonosController.php",
+		"/C/Users/PC/Documents/spa-api/app/Http/Controllers/EmpleadosController.php",
+		"/C/Users/PC/Documents/spa-api/app/Http/Controllers/UsuariosController.php",
+		"/C/Users/PC/Documents/spa-api/app/curl.php",
+		"/C/Users/PC/Documents/spa-api/Consumir Recursos Api-Rest/Api.php",
+		"/C/Users/PC/Documents/spa-api/vendor/guzzlehttp/psr7/src/ServerRequest.php",
+		"/C/Users/PC/Documents/spa-api/ConsumirRecursos.php",
+		"/C/Users/PC/Documents/spa-api/vendor/phar-io/manifest/src/values/Url.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/support/Facades/URL.php",
+		"/C/Users/PC/Documents/spa-api/app/Http/Controllers/Controller.php",
+		"/C/Users/PC/Documents/spa-api/app/Providers/AuthServiceProvider.php",
+		"/C/Users/PC/Documents/spa-api/app/Exceptions/Handler.php",
+		"/C/Users/PC/Documents/spa-api/app/Http/Middleware/Authenticate.php",
+		"/C/Users/PC/Documents/spa-api/bootstrap/app.php",
+		"/C/Users/PC/Documents/spa-api/vendor/symfony/http-kernel/Exception/HttpException.php",
+		"/C/Users/PC/Documents/spa-api/vendor/symfony/finder/Exception/AccessDeniedException.php",
+		"/C/Users/PC/Documents/spa-api/vendor/symfony/debug/ExceptionHandler.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/http/ResponseTrait.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/auth/Middleware/Authorize.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/auth/AuthenticationException.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/auth/Access/AuthorizationException.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/database/Eloquent/ModelNotFoundException.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/database/Eloquent/Factory.php",
+		"/C/Users/PC/Documents/spa-api/vendor/mockery/mockery/tests/Mockery/Fixtures/SemiReservedWordsAsMethods.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/contracts/Auth/Authenticatable.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/auth/Authenticatable.php",
+		"/C/Users/PC/Documents/spa-api/app/Http/Middleware/ContenedorResponse.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/validation/ValidationException.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/contracts/Debug/ExceptionHandler.php",
+		"/C/Users/PC/Documents/spa-api/.env",
+		"/C/Users/PC/Documents/spa-api/routes/web.php",
+		"/C/Users/PC/Documents/spa-api/vendor/laravel/lumen-framework/resources/lang/en/validation.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/support/Facades/Lang.php",
+		"/C/Users/PC/Documents/spa-api/vendor/dragonmantank/cron-expression/src/Cron/AbstractField.php",
+		"/C/Users/PC/Documents/spa-api/app/Telefono.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/filesystem/FilesystemAdapter.php",
+		"/C/Users/PC/Documents/spa-api/vendor/illuminate/http/Resources/Json/JsonResource.php",
+		"/C/Users/PC/Documents/spa-api/app/Usuario.php",
+		"/C/Users/PC/Documents/spa-api/app/User.php",
+		"/C/ProyectoLumen/proyecto/bootstrap/app.php",
+		"/C/ProyectoLumen/proyecto/routes/web.php",
+		"/C/Prueba/pruebalumen/vendor/symfony/console/Application.php",
+		"/C/Prueba/pruebalumen/vendor/laravel/lumen-framework/src/Exceptions/Handler.php",
+		"/C/Prueba/pruebalumen/app/Http/Controllers/ProductosController.php",
+		"/C/Prueba/pruebalumen/.env",
+		"/C/Prueba/pruebalumen/vendor/symfony/http-foundation/File/Exception/AccessDeniedException.php",
+		"/C/Prueba/pruebalumen/vendor/symfony/finder/Exception/AccessDeniedException.php",
+		"/C/Prueba/pruebalumen/vendor/symfony/console/Tests/Fixtures/application_renderexception1.txt",
+		"/C/Prueba/pruebalumen/vendor/illuminate/http/ResponseTrait.php",
+		"/C/Prueba/pruebalumen/vendor/illuminate/database/Eloquent/ModelNotFoundException.php",
+		"/C/Prueba/pruebalumen/app/Producto.php",
+		"/C/Prueba/pruebalumen/app/Console/Kernel.php",
+		"/C/Prueba/pruebalumen/app/Exceptions/Handler.php",
+		"/C/Prueba/pruebalumen/app/Http/Controllers/Controller.php",
+		"/C/Prueba/pruebalumen/bootstrap/app.php",
+		"/C/Prueba/pruebalumen/app/Exceptions/HandlerResponse.php",
+		"/C/Prueba/pruebalumen/vendor/illuminate/contracts/Debug/ExceptionHandler.php",
+		"/C/Prueba/pruebalumen/vendor/symfony/debug/ExceptionHandler.php",
+		"/C/Prueba/pruebalumen/app/Http/Middleware/ContenedorResponse.php",
+		"/C/Prueba/pruebalumen/app/Http/Middleware/ContenedorResponse",
+		"/C/Prueba/pruebalumen/app/Exceptions/HandlerContenedorResponse.php",
+		"/C/Prueba/pruebalumen/app/Categoriaxp.php",
+		"/C/Prueba/pruebalumen/vendor/illuminate/database/Eloquent/Model.php",
+		"/C/Prueba/pruebalumen/routes/web.php",
+		"/C/Prueba/pruebalumen/vendor/illuminate/database/Schema/Blueprint.php",
+		"/C/Prueba/pruebalumen/vendor/fzaninotto/faker/src/Faker/ORM/Spot/EntityPopulator.php",
+		"/C/Prueba/pruebalumen/vendor/fzaninotto/faker/src/Faker/ORM/CakePHP/EntityPopulator.php",
+		"/C/Prueba/pruebalumen/database/seeds/DatabaseSeeder.php",
+		"/C/Prueba/pruebalumen/vendor/illuminate/database/Seeder.php",
+		"/C/Prueba/pruebalumen/app/User.php",
+		"/C/Prueba/pruebalumen/app/Http/Controllers/UsersController.php",
+		"/C/Prueba/pruebalumen/app/Http/Controllers/CategoriasxpController.php",
+		"/C/Prueba/pruebalumen/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php",
+		"/C/Prueba/pruebalumen/app/Http/Controllers/ProductosController",
+		"/C/Prueba/pruebalumen/vendor/illuminate/database/Eloquent/Concerns/HasTimestamps.php",
+		"/C/Prueba/pruebalumen/vendor/phpspec/prophecy/src/Prophecy/Prediction/CallTimesPrediction.php",
+		"/C/Prueba/pruebalumen/database/migrations/2018_09_14_144715_create_users_table.php",
+		"/C/Maac/proyectoapi/routes/web.php",
+		"/C/Maac/proyectoapi/app/Http/Controllers/UsersController.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_13_194223_create_users_table.php",
+		"/C/Maac/proyectoapi/app/User.php",
+		"/C/Maac/proyectoapi/vendor/fzaninotto/faker/src/Faker/Factory.php",
+		"/C/Maac/proyectoapi/.env",
+		"/C/Maac/proyectoapi/app/Categoriax.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_13_193627_create_categoriax_table.php",
+		"/C/Maac/proyectoapi/vendor/laravel/lumen-framework/config/database.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_12_204656_create_categorias_table.php",
+		"/C/Maac/proyectoapi/vendor/illuminate/database/QueryException.php",
+		"/C/Maac/proyectoapi/vendor/illuminate/database/Eloquent/FactoryBuilder.php",
+		"/C/Maac/proyectoapi/vendor/illuminate/cache/CacheManager.php",
+		"/C/Maac/proyectoapi/app/Http/Controllers/CategoriasController.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_12_204426_create_users_table.php",
+		"/C/Maac/proyectoapi/app/Http/Controllers/Categorias2Controller.php",
+		"/C/Maac/proyectoapi/app/Producto.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_12_204851_create_promociones_table.php",
+		"/C/Maac/proyectoapi/app/Promocion.php",
+		"/C/Maac/proyectoapi/app/Inventario.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_12_204731_create_iventarios_table.php",
+		"/C/Maac/proyectoapi/app/Categoria.php",
+		"/C/Maac/proyectoapi/app/Promocio.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_12_204547_create_productos_table.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_12_195130_create_users_table.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_12_195203_create_categorias_table.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_12_194101_create_users_table.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_12_194146_create_categorias_table.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_12_192156_create_categorias2_table.php",
+		"/C/Maac/proyectoapi/app/Http/Controllers/Categorias_2Controller.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_12_184309_create_categoria2_table.php",
+		"/C/Maac/proyectoapi/bootstrap/app.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_11_182328_create_users_table.php",
+		"/C/Maac/proyectoapi/database/seeds/DatabaseSeeder.php",
+		"/C/Maac/proyectoapi/database/factories/ModelFactory.php",
+		"/C/Prueba/pruebalumen/app/Providers/AppServiceProvider.php",
+		"/C/Maac/proyectoapi/app/Providers/AppServiceProvider.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_11_180155_create_users_table.php",
+		"/C/Maac/proyectoapi/app/Http/Controllers/ProductosController.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_11_153352_create_users_table.php",
+		"/C/Proyecto/aplicacion/routes/web.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_11_143933_create_productos_table.php",
+		"/C/Maac/proyectoapi/app/Exceptions/Handler.php",
+		"/C/Maac/proyectoapi/app/Http/Middleware/ResponseWrapper.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_04_203536_create_users_table.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_11_144033_create_categorias_tabl.php",
+		"/C/Maac/proyectoapi/database/migrations/2018_09_04_220543_create_productos_table.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"//",
+			"usuario",
+			"Usuario",
+			"empleado"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/UsuariosController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"SL.110.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.13.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Providers/AuthServiceProvider.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/Controller.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1281,
+								1281
+							]
+						],
+						"settings":
+						{
+							"SL.111.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "spa-api.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cur",
+				"app\\curl.php"
+			],
+			[
+				"url",
+				"vendor\\phar-io\\manifest\\src\\values\\Url.php"
+			],
+			[
+				"urlreques",
+				"vendor\\guzzlehttp\\psr7\\src\\ServerRequest.php"
+			],
+			[
+				"autho",
+				"vendor\\illuminate\\auth\\Middleware\\Authorize.php"
+			],
+			[
+				"authentica",
+				"vendor\\illuminate\\auth\\Authenticatable.php"
+			],
+			[
+				"vali",
+				"vendor\\laravel\\lumen-framework\\resources\\lang\\en\\validation.php"
+			],
+			[
+				"validation",
+				"vendor\\laravel\\lumen-framework\\resources\\lang\\en\\validation.php"
+			],
+			[
+				"validation.p",
+				"vendor\\laravel\\lumen-framework\\resources\\lang\\en\\validation.php"
+			],
+			[
+				"app.php",
+				"bootstrap\\app.php"
+			],
+			[
+				"lang",
+				"vendor\\illuminate\\support\\Facades\\Lang.php"
+			],
+			[
+				"inde",
+				"public\\index.php"
+			],
+			[
+				"database",
+				"proyecto\\vendor\\laravel\\lumen-framework\\config\\database.php"
+			],
+			[
+				"renderex",
+				"pruebalumen\\vendor\\symfony\\console\\Tests\\Fixtures\\application_renderexception1.txt"
+			],
+			[
+				"responsetra",
+				"pruebalumen\\vendor\\illuminate\\http\\ResponseTrait.php"
+			],
+			[
+				"times",
+				"pruebalumen\\vendor\\illuminate\\database\\Eloquent\\Concerns\\HasTimestamps.php"
+			],
+			[
+				"datab",
+				"proyectoapi\\vendor\\laravel\\lumen-framework\\config\\database.php"
+			],
+			[
+				"Illuminate\\Database\\QueryException",
+				"proyectoapi\\vendor\\illuminate\\database\\QueryException.php"
+			],
+			[
+				"data",
+				"proyectoapi\\vendor\\laravel\\lumen-framework\\config\\database.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 416.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
